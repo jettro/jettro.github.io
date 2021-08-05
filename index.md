@@ -4,6 +4,7 @@ Welcome to my website, absolutely not sure what to do with it. But for now I red
 ## Activities
 [Check out my activities](./activities.html)
 [Do not index this one](./notindexthisone.html)
+[Did you know](./didyouknow.html)
 
 ## References
 Check my [linkedin profile](https://www.linkedin.com/in/jettro/ "Jettro's profile page on linked in") if you need more info about me
